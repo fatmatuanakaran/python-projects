@@ -1,0 +1,2 @@
+Hello there, viewers of my repository! I'm NOT going to be boring people out with God knows how manieth to-do list or calculator or madlibs game you see on every Python programmer's repo. HOWEVER! I literally don't know how else to practice my code and showcase it, besides more advanced and cool stuff. So please forgive the absolute mess of a repo I have rn and not to mention calculator #3791 and calendar #11067 you have seen.
+I hope to excite you all with cooler stuff. Until then, I'll slowly suffer as I write the billionth same projects I see online. Love y'all.
